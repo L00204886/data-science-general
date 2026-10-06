@@ -3,3 +3,6 @@ title: "notes"
 output: html_document
 ---
 
+Lecturer: 
+- Vini Vijayan
+- vini.vijayan@atu.ie
